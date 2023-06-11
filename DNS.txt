@@ -1,4 +1,0 @@
-1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-goededoelenhbn.goededoelenhbn.nl
-2. Use this code for the value of the TXT record: 81b8ffa91a42f7b1fe644324ea1522
-3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
-  
