@@ -271,7 +271,7 @@ table {
     width: 370px;
   }
 
-  .jaarrekening h2, h3, p {
+  .jaarrekening h2, .jaarrekening h3, .jaarrekening p {
     color: black;
     text-align: right;
   }
