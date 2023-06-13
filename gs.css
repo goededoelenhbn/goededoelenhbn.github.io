@@ -658,7 +658,7 @@ th, td {
 }
 
 #jaarrekening {
-  text-align: left;
+  text-align: right;
   margin: 0.5%;
   margin-top: 0;
   margin-bottom: 0;
@@ -668,7 +668,7 @@ th, td {
 
 #jaarrekening h2, #jaarrekening h3, #jaarrekening p {
   color: black;
-  text-align: left;
+  text-align: right;
 } 
 
 .QR {
