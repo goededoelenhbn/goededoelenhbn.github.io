@@ -658,6 +658,7 @@ th, td {
 }
 
 #jaarrekening {
+  float: right;
   text-align: right;
   margin: 0.5%;
   margin-top: 0;
