@@ -154,6 +154,10 @@ section {
   margin: 10px;
 }
 
+.rcs {
+    width: 30%;
+    height: 50%;
+
 .datum {
   font-size: 13px;
   color: grey;
